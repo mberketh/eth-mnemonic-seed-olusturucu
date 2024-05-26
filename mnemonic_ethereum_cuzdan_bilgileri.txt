@@ -1,0 +1,29 @@
+Mnemonic Kelime Dizisi: kitchen predict patient mix success health ride answer duck choice require lens
+
+Root Private Key: 755c4ddb59a7d720472f4a207156ed4d09b43912c5a14c1faae8687d4bb48a71
+
+Wallet 1:
+  Private Key: 219314b6087d2b543b2cb5c6fddfb143fe2c38b91e1d4130ca7caff0884249b5
+  Public Key: 025676824068d6490702212a760e629e5dede1d4e8a2e07b7fa50f134741358dea
+  Address: 0xe8dc61f5dcd6ce0C83f10fDE11Fa5023258f22FD
+
+Wallet 2:
+  Private Key: aed38a2c5ac69090eb1ac7aebea691cf25d837b6db0cb286c08e0d5f129edc50
+  Public Key: 02e1d076358e50bbdadaf65ab37574d47b773ee106fe4edf3353fd3bbd829ecdb7
+  Address: 0xB93724aD16B9Ad28888C0DA738d57EF6048fD06a
+
+Wallet 3:
+  Private Key: 69f981d36b10a1e7bef88348b417c81cea87ef821f12d20ec83e24d50fbb8c3d
+  Public Key: 0283c2ab973b121d7cc2f433476fdc8bb68da6922a348b98b7502c2bb5dc325335
+  Address: 0xCB71d3a1C31eF57f5e1940beF33726982786aa1a
+
+Wallet 4:
+  Private Key: f477f967e6f3423347fbcb8538f701414d8b29f9e3a74983bcc9a457cfcf77a9
+  Public Key: 032e94a9e7850ea1a14e08695ade86a793a054d58184ee5d576170199b1208276b
+  Address: 0x27C1f03b66Aa405e5c72Ec1d48D309e7B994B7D9
+
+Wallet 5:
+  Private Key: 8ab3c8117e284c2d8388b32a3a1b05917a69e4d5f11d42d8ede3fc0565134c34
+  Public Key: 021f939543b6df9e83c03e4beaab6069a62e8cbc85c1743f7fc0df82a428a4b2c0
+  Address: 0xAe29BaF34bE20c869a64BECd0B17fCc4De34FD5F
+
